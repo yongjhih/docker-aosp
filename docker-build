@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+docker build -t yongjhih/aosp .
+docker build -t yongjhih/aosp:6 6
